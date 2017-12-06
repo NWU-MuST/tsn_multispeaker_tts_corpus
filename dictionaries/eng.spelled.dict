@@ -1,0 +1,27 @@
+|char_latin_small_letter_a	@i 1
+|char_latin_small_letter_b	b i: 1
+|char_latin_small_letter_c	s i: 1
+|char_latin_small_letter_d	d i: 1
+|char_latin_small_letter_e	i: 1
+|char_latin_small_letter_f	E 1 f
+|char_latin_small_letter_g	dZ i: 1
+|char_latin_small_letter_h	@i 1 tS
+|char_latin_small_letter_i	ai 1
+|char_latin_small_letter_j	dZ @i 1
+|char_latin_small_letter_k	k @i 1
+|char_latin_small_letter_l	{ 1 l
+|char_latin_small_letter_m	E 1 m
+|char_latin_small_letter_n	E 1 n
+|char_latin_small_letter_o	@u 1
+|char_latin_small_letter_p	p i: 1
+|char_latin_small_letter_q	k j u: 1
+|char_latin_small_letter_r	A: 1 r\
+|char_latin_small_letter_s	E 1 s
+|char_latin_small_letter_t	t i: 1
+|char_latin_small_letter_u	j u: 1
+|char_latin_small_letter_v	v i: 1
+|char_latin_small_letter_w	d a 1 . b @ l . j u:
+|char_latin_small_letter_x	E 1 k s
+|char_latin_small_letter_y	w ai 1
+|char_latin_small_letter_z	z E 1 t
+|char_latin_small_letter_z	z i: 1
